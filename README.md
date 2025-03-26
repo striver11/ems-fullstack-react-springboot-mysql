@@ -2,7 +2,7 @@
 
 ```mermaid
 C4Context
-    title System Context diagram for Employee Directory System
+    title System Context diagram for Employee Director System
     Enterprise_Boundary(b0, "EmployeeDirectoryBoundary") {
         Person(user, "User", "A user of the Employee Directory System.")
         
